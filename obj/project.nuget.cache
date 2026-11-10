@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6ryZOyWtY/w=",
+  "dgSpecHash": "Ew/UQOcDUwA=",
   "success": true,
   "projectFilePath": "C:\\Users\\nabil\\Code\\C#\\physic_engines\\PhysicEngine01\\PhysicEngine01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nabil\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
