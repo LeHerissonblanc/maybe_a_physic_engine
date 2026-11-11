@@ -6,7 +6,7 @@ Color bgColor = Color.RayWhite;
 
 Raylib.SetConfigFlags(ConfigFlags.Msaa4xHint | ConfigFlags.VSyncHint);
 Raylib.InitWindow(ScreenWidth, ScreenHeight, "Game?");
-// Raylib.SetTargetFPS(Fps);  // VSync enabled
+// Raylib.SetTargetFPS(60);  // VSync enabled
 
 var game = new Physics(ScreenWidth, ScreenHeight);
 
